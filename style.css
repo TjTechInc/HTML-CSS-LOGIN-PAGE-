@@ -39,6 +39,7 @@ input[type=text], input[type=password] ,input[type=email], input[type=password],
     display: inline-block;
     border: 3px solid navy;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 label{
@@ -52,6 +53,7 @@ button{
     width:  20%;
     color: white;
     background-color: blue;
+    cursor: progress;
     
     padding: 5px;
     margin: 8px 0 12px;
