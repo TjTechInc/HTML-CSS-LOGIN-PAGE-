@@ -8,6 +8,11 @@ form{
     border-radius: 50px;
 }
 
+
+#submit{
+
+    color: green;
+}
 .logo{
     margin-top: 0;
     width: 10%;
