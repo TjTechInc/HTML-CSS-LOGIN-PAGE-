@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+form{
+    border: 0.5px solid blue;
+}
+
+input[type=text], input[type=password] ,input[type=email], input[type=password],input[type=password2]{
+    width: 100%;
+    font-size: large;
+    padding: 6px 5px;
+    margin: 2px 0;
+    text-align: center;
+    color: green;
+    border-radius: 25px;
+    display: inline-block;
+    border: 3px solid navy;
+    box-sizing: border-box;
+}
+
+button{
+    align-content: center;
+    width:  20%;
+    
+    padding: 5px;
+    margin: 8px 0 12px;
+    border-radius: 50px;
+   
+}
+button:hover {
+    opacity: 0.8;
+}
+
+.imgcontainer{
+    text-align: center;
+    
+    margin: 15px 0 12px 0;
+}
+.container{
+    padding:  30px;
+}
